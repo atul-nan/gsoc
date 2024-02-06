@@ -9,7 +9,7 @@ Join our [Telegram Channel](https://t.me/cypherock) and stay tuned for updates.
 Use our [Template](https://docs.google.com/document/d/1UF9ij6BBhXYAetlopktXUOXlet4C2eHd0mAttqy0O2k/edit?usp=sharing) for the proposal. We recommend the use of google docs for the proposal.
 
 
-## **General suggestions and warnings**
+## **General suggestions**
 _________________
 
 - **Project ideas describe the goals we want to achieve
@@ -51,8 +51,8 @@ _________________
 ## **Projects List**
 
 
-### 1. New Coin(s) Support Integration
-**Mentors**: Irshad Ansari, Ujjwal Kumar, Akshit Taneja
+### 1. New Blockchain(s) Support Integration
+**Mentors**: Irshad Ansari, Ujjwal Kumar, Akshit Taneja, Vipul Saini
 
 **Description**: 
 Expand the Cypherock X1 Wallet's capabilities by integrating support for additional cryptocurrencies. 
@@ -96,9 +96,9 @@ The application will provide a user-friendly interface for managing the wallet's
 transaction history, and secure communication with the Cypherock hardware wallet.
 
 **Tech Stack**: 
-* Flutter for UI, Dart,
-* RESTful APIs for backend communication,
-* secure storage for sensitive data.
+* Flutter for UI, Dart
+* RESTful APIs for backend communication
+* secure storage for sensitive data
 
 **Estimated Time**: 400-600 hours
 
@@ -154,7 +154,7 @@ transaction history, and secure communication with the Cypherock hardware wallet
 **Difficulty** : Medium
 
 ### 5. Unit Testing and Automated Testing for Firmware
-**Mentors**: Irshad Ansari, Ujjwal Kumar, Akshit Taneja
+**Mentors**: Irshad Ansari, Ujjwal Kumar, Akshit Taneja, Vipul Saini
 
 **Description**: Establish a robust testing framework for the Cypherock X1 Wallet firmware, including unit tests for individual components and automated tests for integration and system-level verification to ensure the product's reliability and security.
 
@@ -171,7 +171,7 @@ transaction history, and secure communication with the Cypherock hardware wallet
 
 
 ### 6. X1 Simulator for App Development
-**Mentors**: Irshad Ansari, Ujjwal Kumar, Akshit Taneja
+**Mentors**: Irshad Ansari, Ujjwal Kumar, Akshit Taneja, Vipul Saini
 
 **Description**: Create a simulator for the Cypherock X1 hardware wallet to facilitate application development and testing without the need for physical hardware. This tool will emulate the wallet's behaviour and interfaces.
 
