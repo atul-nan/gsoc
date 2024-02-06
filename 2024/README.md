@@ -111,24 +111,19 @@ transaction history, and secure communication with the Cypherock hardware wallet
 
 
 
-### 3. Existing Branch Porting, Wallet Session, Authenticated Server Communication
+### 3. Improve & Add X1 Vault core features
 **Mentors**: Irshad Ansari, Ujjwal Kumar, Akshit Taneja
 
-**Description**: Enhance the existing codebase by porting it to the latest platforms or versions, adding wallet session management for an improved user experience, and implementing authenticated server communication for increased security.
+**Description**: Enhance the existing codebase by porting it to the latest platforms or versions. Improving user experience, security & performance of the X1Vault by implementing features and improvements that are core to the X1Vault. Participants will be working on optimizing the existing implementation for a better experience or supporting new features such as Wallet Session to improve user experience & make the product more versatile.
 
 **Tech Stack**: 
 * Any one of the relevant languages (e.g., JavaScript for web, C/C++ for firmware), 
 * OAuth for authentication,
-* TLS for secure communication.
+* Cryptography
 
-**Estimated Time**: 200-300 hours
+**Estimated Time**: 200-400 hours
 
-**References**:
-
-* OAuth 2.0 Framework: https://oauth.net/2/
-* GitHub - Example of TLS implementation: https://github.com/openssl/openssl
-
-**Difficulty** : Medium
+**Difficulty** : Medium to Hard
 
 
 
@@ -159,12 +154,16 @@ transaction history, and secure communication with the Cypherock hardware wallet
 **Description**: Establish a robust testing framework for the Cypherock X1 Wallet firmware, including unit tests for individual components and automated tests for integration and system-level verification to ensure the product's reliability and security.
 
 **Tech Stack**: 
+- C/C++
+- CMake
+- Unit test frameworks in C (Unity)
 - Github Actions
 
-**Estimated Time**: 300-400 hours
+**Estimated Time**: 200-400 hours
 
 **References**:
 
+* Unity Framework: https://github.com/ThrowTheSwitch/Unity
 * GitHub Actions: https://github.com/features/actions
 
 **Difficulty** : Medium
@@ -173,16 +172,11 @@ transaction history, and secure communication with the Cypherock hardware wallet
 ### 6. X1 Simulator for App Development
 **Mentors**: Irshad Ansari, Ujjwal Kumar, Akshit Taneja, Vipul Saini
 
-**Description**: Create a simulator for the Cypherock X1 hardware wallet to facilitate application development and testing without the need for physical hardware. This tool will emulate the wallet's behaviour and interfaces.
+**Description**: Create a simulator for the Cypherock X1 hardware wallet to facilitate application development and testing without the need for physical hardware. This tool will emulate the wallet's behavior and interfaces.
 
-**Tech Stack**: Emulation tools like QEMU, programming languages used in the wallet's development (C/C++ for firmware, JavaScript for web interfaces).
+**Tech Stack**: Emulation tools like QEMU, and programming languages used in the wallet's development (C/C++ for firmware, JavaScript for web interfaces), SDL2.
 
-**Estimated Time**: 200-300 hours
+**Estimated Time**: 300-400 hours
 
-**References**:
-
-* QEMU: https://www.qemu.org/documentation/
-* GitHub - Cypherock X1 firmware repository (if available)
-
-**Difficulty** : Medium
+**Difficulty** : Medium to Hard
 
