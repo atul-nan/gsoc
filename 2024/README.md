@@ -32,11 +32,11 @@ _________________
   fast learners for the required hard and soft skills by
   contributing to Cypherock have a lot more chances of being accepted**:
   in order to get started contributing refer to the
-  :doc:`Cypherock Contributing Guidelines <cypherock/gsoc/contributing.md>`
+  [Cypherock Contributing Guidelines](CONTRIBUTING.md)
 
 - **Get trained in the projects you want to apply for**: once
   applicants have completed some basic training by
-  :doc:`contributing to Cypherock <cypherock/gsoc/contributing.md>`
+  [contributing to Cypherock](CONTRIBUTING.md)
   we highly suggest to start working on
   some aspects of the project they are
   interested in applying: all projects
@@ -175,6 +175,22 @@ transaction history, and secure communication with the Cypherock hardware wallet
 **Description**: Create a simulator for the Cypherock X1 hardware wallet to facilitate application development and testing without the need for physical hardware. This tool will emulate the wallet's behavior and interfaces.
 
 **Tech Stack**: Emulation tools like QEMU, and programming languages used in the wallet's development (C/C++ for firmware, JavaScript for web interfaces), SDL2.
+
+**Estimated Time**: 300-400 hours
+
+**Difficulty** : Medium to Hard
+
+
+### 7. Multi-Party-Computation (MPC) based threshold signing on X1 Vault
+**Mentors**: Ujjwal Kumar, Vipul Saini
+
+**Description**: Research & develop threshold ECDSA signing for popular blockchains using an MPC-based approach. The development involves research, design & improvements of building blocks for MPC-based threshold signing. The project introduces participants to the latest developments in the field of cryptography with a focus on MPC.
+
+**Tech Stack**: 
+- C/C++
+- Build tools (cmake, gcc, gdb)
+- Cryptography
+
 
 **Estimated Time**: 300-400 hours
 
