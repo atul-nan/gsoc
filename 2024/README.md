@@ -75,7 +75,7 @@ This project involves researching and implementing the necessary protocols and s
 * ElectronJS
 * blockchain-specific libraries and APIs for the selected coins.
 
-**Estimated Time** : 300-400 hours
+**Estimated Time** : 350 hours
 
 **References**:
 
@@ -100,7 +100,7 @@ transaction history, and secure communication with the Cypherock hardware wallet
 * RESTful APIs for backend communication
 * secure storage for sensitive data
 
-**Estimated Time**: 400-600 hours
+**Estimated Time**: 350 hours
 
 **References**:
 
@@ -114,16 +114,16 @@ transaction history, and secure communication with the Cypherock hardware wallet
 ### 3. Improve & Add X1 Vault core features
 **Mentors**: Irshad Ansari, Ujjwal Kumar, Akshit Taneja
 
-**Description**: Enhance the existing codebase by porting it to the latest platforms or versions. Improving user experience, security & performance of the X1Vault by implementing features and improvements that are core to the X1Vault. Participants will be working on optimizing the existing implementation for a better experience or supporting new features such as Wallet Session to improve user experience & make the product more versatile.
+**Description**: Enhance the existing codebase by porting it to the latest platforms or versions. Improving user experience, security & performance of the X1 Vault by implementing features and improvements that are core to the X1 Vault. Participants will be working on optimizing the existing implementation for a better experience or supporting new features such as Wallet Session to improve user experience & make the product more versatile.
 
 **Tech Stack**: 
 * Any one of the relevant languages (e.g., JavaScript for web, C/C++ for firmware), 
 * OAuth for authentication,
 * Cryptography
 
-**Estimated Time**: 200-400 hours
+**Estimated Time**: 175 hours
 
-**Difficulty** : Medium to Hard
+**Difficulty** : Hard
 
 
 
@@ -138,7 +138,7 @@ transaction history, and secure communication with the Cypherock hardware wallet
 - ReactJS, Redux
 - ElectronJS
 
-**Estimated Time**: 300-400 hours
+**Estimated Time**: 350 hours
 
 **References**:
 
@@ -159,7 +159,7 @@ transaction history, and secure communication with the Cypherock hardware wallet
 - Unit test frameworks in C (Unity)
 - Github Actions
 
-**Estimated Time**: 200-400 hours
+**Estimated Time**: 350 hours
 
 **References**:
 
@@ -176,9 +176,9 @@ transaction history, and secure communication with the Cypherock hardware wallet
 
 **Tech Stack**: Emulation tools like QEMU, and programming languages used in the wallet's development (C/C++ for firmware, JavaScript for web interfaces), SDL2.
 
-**Estimated Time**: 300-400 hours
+**Estimated Time**: 350 hours
 
-**Difficulty** : Medium to Hard
+**Difficulty** : Hard
 
 
 ### 7. Multi-Party-Computation (MPC) based threshold signing on X1 Vault
@@ -192,7 +192,7 @@ transaction history, and secure communication with the Cypherock hardware wallet
 - Cryptography
 
 
-**Estimated Time**: 300-400 hours
+**Estimated Time**: 350 hours
 
-**Difficulty** : Medium to Hard
+**Difficulty** : Hard
 
